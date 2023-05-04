@@ -11,8 +11,10 @@ Dans la catégorie fichiers vous pouvez trouver toutes les données caractérist
 
 ![categorie_data gouv](https://user-images.githubusercontent.com/125503955/236210504-2d3cb6bc-cb96-43d2-9bec-6dc01dae04d3.png)
 
-- Dans la catégorie fichier vous pouvez toutes les bases de données des 4 catégories et pour chaque années. 
-- Dans la catégorie Ressources communautaire vous pouvez retrouver les bases de données des 4 catégories de 2005 à 2021.
+- Fichiers: All the file of all the category for every year
+- Discussions: Discussion of the community in the subject, question, answer, opinions, ect.
+- Réutilisation: Graphs work of other people that have done by the community.
+- Ressources communautaires: The dataset  "caractéristiques", "vehicules", "lieux" and "usagers " from 2005 to 2021, that are the our dataset accept for the DOM file.
 
 
 ## Question de recherche
