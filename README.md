@@ -10,6 +10,6 @@ Dans la catégorie fichiers vous pouvez trouver toutes les données caractérist
 
 ### Question de recherche
 
-Quels sont les principaux facteurs présents dans les accidents de la route ?
+Quels sont les principaux facteurs présents dans les accidents de la route en France métropolitaine entre 2005 et 2019?
 
 ### Création de l'environnement conda
