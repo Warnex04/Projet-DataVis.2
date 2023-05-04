@@ -1,5 +1,8 @@
 # Sécurité routière
 
+### Installation
+
+
 ### Où trouver les données ?
 
 Aller sur le site data.gouv.fr :https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2021/#/resources 
@@ -12,4 +15,4 @@ Dans la catégorie fichiers vous pouvez trouver toutes les données caractérist
 
 Quels sont les principaux facteurs présents dans les accidents de la route en France métropolitaine entre 2005 et 2019?
 
-### Création de l'environnement conda
+
