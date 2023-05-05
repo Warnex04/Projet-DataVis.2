@@ -1,9 +1,9 @@
 # Sécurité routière
 
 ## installing Dependencies :
-For this project, Python and Anaconda are required to execute the main project file.
-In case they are missing, they will be automatically installed through the Dependency Scripts
-The dependency scripts also manage Library dependencies
+For this project, Python and Anaconda are required to execute the main project file.\n
+In case they are missing, they will be automatically installed through the Dependency Scripts.\n
+The dependency scripts also manage Library dependencies\n
 
 On a Unix system, [click here](https://github.com/Warnex04/Projet-DataVis.2/blob/main/Scripts/Dependency%20Scripts/create_env.sh)
 
