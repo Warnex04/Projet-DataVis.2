@@ -5,9 +5,9 @@ For this project, Python and Anaconda are required to execute the main project f
 In case they are missing, they will be automatically installed through the Dependency Scripts
 The dependency scripts also manage Library dependencies
 
-On a Unix system, [click here](https://github.com/Warnex04/Projet-DataVis.2/blob/main/Scripts/Dependency%20Scripts/create_env.ps1)
+On a Unix system, [click here](https://github.com/Warnex04/Projet-DataVis.2/blob/main/Scripts/Dependency%20Scripts/create_env.sh)
 
-On a Windows system, click here
+On a Windows system, [click here](https://github.com/Warnex04/Projet-DataVis.2/blob/main/Scripts/Dependency%20Scripts/create_env.ps1)
 
 ## Where is the data ?
 
