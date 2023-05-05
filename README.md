@@ -1,7 +1,13 @@
 # Sécurité routière
 
-## Installation
+## installing Dependencies :
+For this project, Python and Anaconda are required to execute the main project file.
+In case they are missing, they will be automatically installed through the Dependency Scripts
+The dependency scripts also manage Library dependencies
 
+On a Unix system, [click here](Scripts/Dependency Scripts/create_env.ps1)
+
+On a Windows system, click here
 
 ## Where is the data ?
 
