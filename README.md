@@ -7,6 +7,7 @@ The dependency scripts also manages Python Libraries if they aren't already avai
 
 On a Unix system, [click here](https://github.com/Warnex04/Projet-DataVis.2/blob/main/Scripts/Dependency%20Scripts/create_env.sh)  
 <br>
+
 On a Windows system, [click here](https://github.com/Warnex04/Projet-DataVis.2/blob/main/Scripts/Dependency%20Scripts/create_env.ps1)  
 
 ---
