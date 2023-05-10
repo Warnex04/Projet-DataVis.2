@@ -27,4 +27,4 @@ In the "fichiers" category, you can find all the characteristic data, vehicle da
 
 ## Research Question
 
-What are the main geological, technical, and socio-economic factors present in road accidents in mainland France between 2005 and 2019?
+What are the main geological, technical, and socio-economic factors present in road accidents in mainland France between 2019 and 2021?
