@@ -10,6 +10,15 @@ On a Unix system you have to execute the script in a base terminal, [click here]
 
 On a Windows system you have to execute the script in a PowerShell terminal, [click here](https://github.com/Warnex04/Projet-DataVis.2/blob/main/Scripts/Dependency%20Scripts/create_env.ps1)  
 
+Here's a list of the required libraries which will be automatically installed :
+
+- seaborn
+- pandas
+- plotly
+- matplotlib
+- numpy
+- json
+
 ---
 
 ## Where is the data?
