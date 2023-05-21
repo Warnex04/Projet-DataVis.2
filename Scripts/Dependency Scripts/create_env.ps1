@@ -18,7 +18,7 @@ conda create --name $envName python=$pythonVersion
 conda activate $envName
 
 # Install required packages
-conda install package1 package2 ...
+conda install seaborn pandas plotly matplotlib numpy json
 
 # Deactivate the environment
 conda deactivate
